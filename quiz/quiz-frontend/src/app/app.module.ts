@@ -6,16 +6,18 @@ import { AppComponent } from './app.component';
 import { QuestionComponent } from './question/question.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
-import { MatButtonModule, MatCardModule, MatInputModule} from '@angular/material';
+import { MatButtonModule, MatCardModule, MatInputModule, MatListModule} from '@angular/material';
 import { FormsModule } from '@angular/forms';
 import { ApiService } from './api.service';
 import { HttpClientModule } from '@angular/common/http';
+import { ListQuestionsComponent } from './list-questions/list-questions.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    QuestionComponent
+    QuestionComponent,
+    ListQuestionsComponent
   ],
   imports: [
     BrowserModule,
@@ -25,7 +27,8 @@ import { HttpClientModule } from '@angular/common/http';
     MatButtonModule,
     MatInputModule,
     MatCardModule,
-    FormsModule
+    FormsModule,
+    MatListModule
   ],
   providers: [ApiService],
   bootstrap: [AppComponent]
