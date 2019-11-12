@@ -1,0 +1,11 @@
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz_backend.deps.json
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz_backend.runtimeconfig.json
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz_backend.runtimeconfig.dev.json
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz_backend.dll
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz_backend.pdb
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz_backend.csprojAssemblyReference.cache
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz_backend.csproj.CoreCompileInputs.cache
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz_backend.AssemblyInfoInputs.cache
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz_backend.AssemblyInfo.cs
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz_backend.dll
+C:\Users\rpereira\Desktop\projetos\Linkedin-Angular-ASP.NET-Core-and-Entity-Framework-Core\quiz\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz_backend.pdb

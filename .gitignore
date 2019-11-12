@@ -10,6 +10,9 @@
 # dependencies
 /quiz/quiz-frontend/node_modules
 
+# dependencies vs
+/quiz/quiz-backend/.vs/
+
 # profiling files
 chrome-profiler-events*.json
 speed-measure-plugin*.json
